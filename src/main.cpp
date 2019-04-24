@@ -10,6 +10,8 @@
 
 using namespace std;
 
+// Entry point to the application
+// New line
 int main(void)
 {
 
