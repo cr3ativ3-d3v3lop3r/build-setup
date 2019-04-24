@@ -1,3 +1,10 @@
+/*
+ * Filename: FileReader.h
+ * Author: Callum Cooper
+ * Date: 24-04-19
+ * Description: Interface to read file input.
+ */
+
 #ifndef FILE_READER_H_
 #define FILE_READER_H_
 
