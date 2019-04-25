@@ -3,3 +3,5 @@
 Basic C++ project build pipeline.
 
 inserted feature2
+
+inserted feature1
